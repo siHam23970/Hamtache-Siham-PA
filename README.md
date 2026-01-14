@@ -1,2 +1,10 @@
-# Hamtache-Siham-PA
-Academic project submitted via Overleaf and shared on GitHub.
+# Academic Project – Overleaf Submission
+
+This repository contains my academic project prepared using LaTeX on Overleaf.
+
+## Contents
+- Overleaf source files (.zip)
+- Final compiled PDF
+
+## Author
+Siham Hamtache
